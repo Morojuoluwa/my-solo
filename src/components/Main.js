@@ -22,7 +22,7 @@ function Main(){
                 </p>
                 <h2 className="text-left mt-2 text-lg text-white mb-1">Interests</h2>
                 <p className="text-left md:text-base text-sm text-gray-400 leading-4">
-                    Lead guitar expert. lover of beautiful women, entrepreneur, lover of memes,, travel geek.
+                    Lead guitar expert. lover of women, entrepreneur, lover of memes,, travel geek.
                 </p>
                 
             </div>
